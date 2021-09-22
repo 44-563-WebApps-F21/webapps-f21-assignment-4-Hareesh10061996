@@ -1,3 +1,16 @@
+
+.ALGERNON
+{
+    color:rgb(8, 170, 76);
+}
+.JACK
+{
+    color:rgb(194, 14, 155);
+}
+.ALGERNON
+{
+    color:rgb(178, 219, 28);
+}
 .speech
 {
     font-family: Trebuchet MS;
@@ -10,18 +23,6 @@
     color:black;
     font-size:14px ;
     background-color: rgb(245, 216, 173);       
-}
-.ALGERNON
-{
-    color:rgb(8, 170, 76);
-}
-.JACK
-{
-    color:rgb(194, 14, 155);
-}
-.ALGERNON
-{
-    color:rgb(178, 219, 28);
 }
 .stage-direction:hover
 {
